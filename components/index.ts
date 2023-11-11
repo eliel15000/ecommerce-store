@@ -7,6 +7,7 @@ import Billboard from "./billboard";
 import ProductList from "./product-list";
 import Info from "./info";
 import PreviewModal from "./preview-modal";
+import GoogleAnalytics from "./GA4";
 
 export {
   Navbar,
@@ -18,4 +19,5 @@ export {
   ProductList,
   Info,
   PreviewModal,
+  GoogleAnalytics,
 };
